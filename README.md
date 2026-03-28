@@ -12,8 +12,7 @@ npm run dev
 ```
 
 ## Integrantes
-- David Galvez
-- David Tunqui
-- Juan Panta
-- Miguel Puelles
-- Ricardo Fernández
+David Gustavo Gálvez Montufar	
+Angel Clyde Guillen Chavez		
+Axel Nole Flores					
+Ramiro Mendoza Moscoso	
